@@ -9,7 +9,7 @@ var alphaArr;
 const strToArr = (str, arr) => {
     // write your function here
 
-    return console.log(alphaArr)
+    return console.log(`String to Array: ${alphaArr}`)
 }
 // Don't forget to add parameters for your function
 strToArr();
@@ -22,7 +22,7 @@ const calculator = (num1, operator, num2) => {
 
     // use the empty object total to hold your total number
     var total;
-    return console.log(total)
+    return console.log(`Calculator: ${total}`)
 }
 // Don't forget to add parameters for your function
 calculator();
